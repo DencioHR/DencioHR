@@ -128,7 +128,7 @@ Generating pre-built zip archives for distribution:
 gulp build dist --prod
 ```
 
-## Docker
+## 경력 및 교육수료
 
 Dillinger is very easy to install and deploy in a Docker container.
 
@@ -162,11 +162,11 @@ your preferred browser.
 127.0.0.1:8000
 ```
 
-## License
+## Major
 
-MIT
+Industrial and Organizational Psychology
 
-**Free Software, Hell Yeah!**
+**할 수 있다!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
